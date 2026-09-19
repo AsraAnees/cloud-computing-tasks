@@ -29,8 +29,8 @@ The original proposal also considered AWS services such as Lightsail, CloudFront
 
 ## Repository Structure
 
-- `Lab-1/` – Laboratory document
-- `Lab-2/` – Project idea and project report documents
+- `Lab-2/` – Laboratory document
+- `Lab-3/` – Project idea and project report documents
 
 ## Group 15
 
